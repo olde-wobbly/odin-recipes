@@ -1,10 +1,7 @@
 /*styles.css*/
-.body {
-    font-size: 20px;
-    font-weight: 300;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    background-color: royalblue;
-
+.para1,
+.para2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 div {
@@ -15,4 +12,20 @@ div {
     height: auto;
     width: 300px;
 
+}
+
+.para1,
+.para2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.para1 {
+    background-color: blue;
+    color: bisque;
+    font-size: larger;
+}
+.para2 {
+    background-color: brown;
+    color: forestgreen;
+    font-size: x-small;
 }
